@@ -1,0 +1,100 @@
+* {
+  font-family: Arial, sans-serif;
+  marin: 0;
+  font-size: 18px;
+}
+
+body {
+  background-color: #777;
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.flex-container1 {
+  //display: : flex;
+}
+
+.box {
+  height: 100px;
+  min-width: 100px;
+}
+
+.one {
+  background: #ebebeb;
+  text-align: center;
+  margin-bottom: 10px;
+  color: #777;
+}
+
+.two {
+  background: #ebebeb;
+  text-align: center;
+  margin-bottom: 10px;
+  color: #777;
+}
+
+.flex-container2 {
+  display: flex;
+}
+
+.three {
+  background: #ebebeb;
+  text-align: center;
+  color: #777;
+  width: 495px;
+  height: 200px;
+  padding-right: 10px;
+  margin-bottom: 10px;
+}
+
+.four {
+  background: #ebebeb;
+  text-align: center;
+  color: #777;
+  width: 495px;
+  height: 200px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.five {
+  background: #ebebeb;
+  text-align: center;
+  margin-bottom: 10px;
+  color: #777;
+}
+
+.six {
+  background: #777;
+  margin-bottom: 10px;
+  text-align: center;
+  color: #ebebeb;
+  margin-left: 10px;
+  height: 160px;
+  margin-top: 5px;
+}
+
+.seven {
+  background: #ebebeb;
+  padding-top: 10px;
+  height: 40px;
+  width: 420px;
+  color: #777;
+  text-align: center;
+  margin-left: 20px;
+}
+
+.eight {
+  background: #ebebeb;
+  padding-top: 10px;
+  height: 40px;
+  width: 420px;
+  color: #777;
+  text-align: center;
+  margin-left: 20px;
+  margin-top: 10px;
+}
